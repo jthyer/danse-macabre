@@ -3,7 +3,7 @@
 Tiny score attack game by John Thyer (farawaytimes.itch.io)
 
 Play on Glorious Trainwrecks: 
-  
+  https://www.glorioustrainwrecks.com/node/12447
 
 Made with Love2d (love2d.org), Piskel (piskelapp.com), and OGMO Editor (ogmo-editor-3.github.io)
 

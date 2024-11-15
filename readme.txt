@@ -2,9 +2,6 @@ Danse Macabre
 
 Tiny score attack game by John Thyer (farawaytimes.itch.io)
 
-Play on Glorious Trainwrecks: 
-  
-
 Made with Love2d (love2d.org), Piskel (piskelapp.com), 
   and OGMO Editor (ogmo-editor-3.github.io)
 
